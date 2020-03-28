@@ -1,3 +1,5 @@
 # hello-world
+
 thats right, another repository
-created readme-edits branch
+
+I am just learning github and coding in general, be gentle!
